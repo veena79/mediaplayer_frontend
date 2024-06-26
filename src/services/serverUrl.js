@@ -1,0 +1,1 @@
+export const serverUrl='https://dashboard.render.com/web/srv-cptpf7hu0jms73ecp280/deploys/dep-cptpf7pu0jms73ecp2dg'
